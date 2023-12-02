@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\bin\Debug\net6.0\exampl002_hellouser.exe
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\bin\Debug\net6.0\exampl002_hellouser.deps.json
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\bin\Debug\net6.0\exampl002_hellouser.runtimeconfig.json
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\bin\Debug\net6.0\exampl002_hellouser.dll
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\bin\Debug\net6.0\exampl002_hellouser.pdb
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\exampl002_hellouser.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\exampl002_hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\exampl002_hellouser.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\exampl002_hellouser.AssemblyInfo.cs
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\exampl002_hellouser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\exampl002_hellouser.dll
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\refint\exampl002_hellouser.dll
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\exampl002_hellouser.pdb
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\exampl002_hellouser.genruntimeconfig.cache
+C:\Users\User\Desktop\exampls_c#\exampl002_hellouser\obj\Debug\net6.0\ref\exampl002_hellouser.dll
