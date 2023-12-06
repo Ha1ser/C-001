@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\exampls_c#\\exampl002_hellouser\\exampl002_hellouser.csproj": {}
+    "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl002_hellouser\\exampl002_hellouser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\exampls_c#\\exampl002_hellouser\\exampl002_hellouser.csproj": {
+    "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl002_hellouser\\exampl002_hellouser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\exampls_c#\\exampl002_hellouser\\exampl002_hellouser.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl002_hellouser\\exampl002_hellouser.csproj",
         "projectName": "exampl002_hellouser",
-        "projectPath": "C:\\Users\\User\\Desktop\\exampls_c#\\exampl002_hellouser\\exampl002_hellouser.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl002_hellouser\\exampl002_hellouser.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\exampls_c#\\exampl002_hellouser\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl002_hellouser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
