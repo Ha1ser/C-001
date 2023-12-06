@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\exampls_c#\\exampl001_helloworld\\exampl001_helloworld.csproj": {}
+    "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl001_helloworld\\exampl001_helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\exampls_c#\\exampl001_helloworld\\exampl001_helloworld.csproj": {
+    "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl001_helloworld\\exampl001_helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\exampls_c#\\exampl001_helloworld\\exampl001_helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl001_helloworld\\exampl001_helloworld.csproj",
         "projectName": "exampl001_helloworld",
-        "projectPath": "C:\\Users\\User\\Desktop\\exampls_c#\\exampl001_helloworld\\exampl001_helloworld.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl001_helloworld\\exampl001_helloworld.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\exampls_c#\\exampl001_helloworld\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\C leck\\C-001\\exampl001_helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
